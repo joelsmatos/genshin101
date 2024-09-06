@@ -1,4 +1,4 @@
-### **Genshin 101: Seu Guia Completo para Teyvat!**
+### **Genshin 101: Seu Guia Completo para Teyvat! - Imersão Dev com Google Gemini**
 
 **O que é isso?**
 
